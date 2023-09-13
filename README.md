@@ -31,3 +31,4 @@ What's up
 # Kaylee Chaput
 # Elsie Valenzona
 # Maya Pasieczny
+# Isabella St-Marseille
